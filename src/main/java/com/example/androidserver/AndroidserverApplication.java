@@ -8,6 +8,8 @@ public class AndroidserverApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(AndroidserverApplication.class, args);
+        //test spring
+
     }
 
 }
